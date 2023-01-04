@@ -1,5 +1,8 @@
 {
-    "products":[],
+    "products":[{
+        "id":1,
+        "name":"rutuja"
+    }],
     "cart":[
 
     ],
