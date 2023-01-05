@@ -1,8 +1,15 @@
 {
-    "products":[{
+    "cars":[
+        {
         "id":1,
-        "name":"rutuja"
-    }],
+        "brand":"Tesla",
+        "typo":"Manual",
+        "yop":2000,
+        "kms":3,
+        "desc":"jkl",
+        "price":4   
+     }
+    ],
     "cart":[
 
     ],
