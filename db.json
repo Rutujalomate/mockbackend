@@ -14,5 +14,7 @@
 
     ],
     "user":[],
+    "login":[],
+    "signup":[],
     "dogs":[]
 }
